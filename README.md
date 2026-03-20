@@ -56,13 +56,9 @@ The best performing model is saved to `models/loan_risk_model.pkl`.
 
  🚀 How to Run
 
-1. Open the notebook in Google Colab:
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/loan-risk-assessment/blob/main/loan_risk_assessment.ipynb)
-
-2. Run Cell 2 and upload `german_credit_data.csv` when prompted
-3. Click Runtime → Run all**
-4. Use the interactive widget in Cell 11 to test any applicant
+. Run Cell 2 and upload `german_credit_data.csv` when prompted
+. Click Runtime → Run all
+. Use the interactive widget in Cell 11 to test any applicant
 
 ---
 
